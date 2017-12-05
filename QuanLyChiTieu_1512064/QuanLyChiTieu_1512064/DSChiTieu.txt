@@ -1,0 +1,12 @@
+﻿,﻿,0
+Ăn uống,Uống Trà sữa,25000
+Di chuyển,Đi xe buýt,4000
+Nhà cửa,Phòng trọ,1000000
+Xe cộ,Đổ xăng,200000
+Nhu yếu phẩm,Nước hoa,500000
+Dịch vụ,Internet,100000
+Di chuyển,Taxi,200000
+Di chuyển,Đi xe ôm,50000
+Ăn uống,Ăn bánh mì,10000
+Nhu yếu phẩm,Bột giặc,75000
+Ăn uống,Ăn cơm,20000
